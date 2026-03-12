@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\user_profile.py
+# hypothesis_version: 6.151.6
+
+['User not found', 'aid_type', 'condition_name', 'email', 'emergency_contact', 'medical_condition', 'mobility_aid', 'mobility_aid_added', 'mobility_aid_deleted', 'priority', 'profile_created', 'profile_deleted', 'profile_updated', 'updated_fields', 'user', 'user_created', 'user_profile']

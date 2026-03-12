@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\edge\skeleton_extractor.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.2, 0.8, 1000, 'average_ms', 'count', 'max_ms', 'meets_target', 'min_ms', 'target_ms']

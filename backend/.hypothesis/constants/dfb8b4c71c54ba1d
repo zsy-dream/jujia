@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\medication_reminder.py
+# hypothesis_version: 6.151.6
+
+['acknowledged_at', 'advance_minutes', 'audio_message', 'audio_played', 'brightness', 'color', 'devices_activated', 'gentle_pulse', 'lighting_activated', 'lighting_pattern', 'medication', 'medication_chime', 'message', 'pattern', 'reason', 'reminder_id', 'reminder_not_found', 'reminder_time', 'scheduled_time', 'soft_green', 'success', 'timestamp', 'transition', 'volume']

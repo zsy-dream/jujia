@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\ambient_controller.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.5, 0.8, 'audio_played', 'degraded', 'healthy', 'lighting_activated', 'normal', 'offline', 'pattern', 'reminder_sent', 'status_indicated', 'system', 'timestamp']

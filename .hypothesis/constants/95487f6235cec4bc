@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\models\core.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.5, 7.0, 'AlertModel', 'IncidentModel', 'InstitutionModel', 'MobilityAidModel', 'RiskPredictionModel', 'SkeletonDataModel', 'StaffAssignmentModel', 'StaffMemberModel', 'User', 'UserProfileModel', 'activity_logs', 'alerts', 'assignments', 'audit_logs', 'compliance_reports', 'emergency_contacts', 'frailty_assessments', 'incident', 'incidents', 'incidents.id', 'institution', 'institutions', 'institutions.id', 'medical_conditions', 'mobility_aids', 'pending', 'profile', 'residents', 'risk_predictions', 'skeleton_data', 'staff_assignments', 'staff_member', 'staff_members', 'staff_members.id', 'user', 'user_profiles', 'user_profiles.id', 'users', 'users.id', 'zh-CN']

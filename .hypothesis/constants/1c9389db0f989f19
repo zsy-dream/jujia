@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\lighting_orchestrator.py
+# hypothesis_version: 6.151.6
+
+[0.6, 0.7, 0.8, 1.0, 'amber', 'blue', 'brightness', 'calming', 'color', 'devices_activated', 'devices_reset', 'devices_updated', 'emergency_type', 'fast', 'gradual', 'is_quiet_hours', 'lighting_disabled', 'medium', 'pattern', 'pulse', 'pulse_rate', 'rapid_pulse', 'reason', 'red', 'risk_level', 'smooth', 'soft_blue', 'success', 'timestamp', 'transition', 'very_fast']

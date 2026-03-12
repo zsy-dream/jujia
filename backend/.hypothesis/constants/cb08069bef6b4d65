@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\dashboard_service.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.15, 0.5, 0.85, 1.0, 6.0, 7.5, 3000, 5000, 'acknowledged', 'actionable_insights', 'activity', 'activity_summary', 'alert_id', 'alert_type', 'attention_needed', 'category', 'caution', 'critical', 'daily_steps', 'date', 'description', 'emergency', 'fall', 'frailty_score', 'health', 'health_status', 'high', 'insight_id', 'last_activity', 'last_update', 'low', 'medication', 'medium', 'message', 'mobility_score', 'normal', 'priority', 'recent_alerts', 'recommended_action', 'risk', 'risk_level', 'risk_score', 'risk_trends', 'severity', 'sleep_hours', 'status', 'timestamp', 'title', 'user_id', '存在高优先级警报', '建议保持规律作息，确保每晚7-8小时睡眠', '建议增加日常活动，如散步、轻度运动等', '建议安排医疗检查，加强日常监护', '建议进行物理治疗评估，考虑使用辅助设备', '活动量偏低', '睡眠时间不足', '移动能力下降', '衰弱指数偏高', '请立即查看警报详情并采取相应措施', '过去3天风险评分持续上升，需要密切关注', '风险持续上升']

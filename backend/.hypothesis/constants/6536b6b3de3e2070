@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\actuarial_risk_engine.py
+# hypothesis_version: 6.151.6
+
+[-0.1, 0.0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.5, 0.6, 0.7, 0.8, 1.0, 1.2, 1.5, 2.0, 5.0, 6.0, 7.0, 9.0, 10.0, 11.0, 30.0, 60.0, 100.0, 100, 2000, 3500, 5000, 'active_time_ratio', 'activity', 'analysis_period_days', 'balance_quality', 'change_detected', 'daily_steps_ratio', 'declining', 'gait_stability', 'high', 'improving', 'insufficient_data', 'left_ankle', 'left_hip', 'left_knee', 'left_shoulder', 'low', 'medium', 'mobility', 'movement_range', 'right_ankle', 'right_hip', 'right_knee', 'right_shoulder', 'risk_level', 'sleep', 'sleep_duration', 'sleep_regularity', 'stable', 'trend', 'unknown', '低移动性评分', '健康指标下降趋势', '平衡能力差', '整体健康状况良好', '检测到显著变化', '步态不稳定', '活动水平不足', '睡眠质量差']

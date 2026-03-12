@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\insurance_service.py
+# hypothesis_version: 6.151.6
+
+[0.3, 0.4, 0.5, 0.6, 0.7, 1.0, 100.0, 100, 'activity', 'aggregated', 'aggregation', 'anonymization_level', 'assisted', 'average_confidence', 'consented_individual', 'full', 'generate_report', 'high', 'high_risk_percentage', 'independent', 'k-匿名性检查失败', 'k_anonymity', 'limited', 'low', 'low_risk_percentage', 'medium', 'minimum_group_size', 'mobility', 'moderate', 'population', 'population_only', 'population_size', 'profile_count', 'pseudonymized', 'reason', 'report_id', 'utf-8', '用户未授予同意', '至少需要一个风险评估', '访问已授权', '访问权限不足', '需要用户ID']

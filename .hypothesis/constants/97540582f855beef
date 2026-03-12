@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\multimodal_verifier.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.8, 0.9, 1.0, 'No sensor inputs', 'adjusted_threshold', 'audio', 'confidence', 'confidences', 'consensus_score', 'consistency', 'contribution', 'distress_detected', 'environmental', 'error', 'false_positive_rate', 'impact_detected', 'motion', 'recommendations', 'sensor_contributions', 'sensor_count', 'sensor_inputs', 'sensor_types', 'sensor_weights', 'skeleton_data', 'timestamp', 'total_verifications', 'visual', 'weight']

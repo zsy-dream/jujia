@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\schemas\core.py
+# hypothesis_version: 6.151.6
+
+[0.0, 1.0, -180, 150, 180, 'FrailtyIndex', 'RiskPrediction', 'abnormal_movement', 'cancelled', 'confidence_level', 'confirmed', 'email', 'emergency', 'fall', 'fall_detected', 'fall_risk_score', 'false_positive', 'high', 'left_ankle', 'left_ear', 'left_elbow', 'left_eye', 'left_hip', 'left_knee', 'left_shoulder', 'left_wrist', 'low', 'medical_emergency', 'medium', 'missed_medication', 'nose', 'pending', 'prolonged_inactivity', 'push', 'right_ankle', 'right_ear', 'right_elbow', 'right_eye', 'right_hip', 'right_knee', 'right_shoulder', 'right_wrist', 'sms', 'zh-CN']

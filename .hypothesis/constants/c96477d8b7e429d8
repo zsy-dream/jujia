@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\alert_orchestrator.py
+# hypothesis_version: 6.151.6
+
+[300, 900, 3600, '%Y-%m-%d %H:%M:%S', 'action', 'action_type', 'alert_id', 'cancelled', 'confirmed', 'contact_care_circle', 'details', 'dispatch_emergency', 'escalate', 'escalated', 'execute_protocol', 'family_notified', 'high_risk_conditions', 'in_progress', 'initiated', 'latitude', 'location', 'longitude', 'monitor', 'monitoring_initiated', 'notify_family', 'protocol', 'resolved', 'response_escalated', 'severity', 'timeout_seconds', 'timestamp', 'voice_confirmation', '中级', '低级', '医疗紧急情况', '异常移动', '未知', '未知事件', '紧急', '跌倒', '跌倒检测', '错过用药', '长时间不活动', '高级']

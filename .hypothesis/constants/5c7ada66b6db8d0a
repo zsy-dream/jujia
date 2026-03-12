@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\edge\degraded_mode.py
+# hypothesis_version: 6.151.6
+
+[0.0, 100, 1024, '/tmp/edge_buffer', 'BufferedData', 'address', 'anonymized', 'buffer', 'buffer.json', 'cloud_unavailable', 'confidence_scores', 'config', 'count', 'critical_alerts_only', 'current_mode', 'data', 'data_id', 'data_type', 'degraded', 'degraded_reason', 'failed', 'hardware_failure', 'incident_data', 'incident_id', 'incident_type', 'is_degraded', 'joint_type', 'keypoints', 'latitude', 'location', 'longitude', 'max_buffer_age_hours', 'max_retries', 'max_size_mb', 'network_failure', 'normal', 'offline', 'oldest_entry', 'privacy_violation', 'processing_error', 'r', 'remaining', 'retry_count', 'severity', 'size_mb', 'skeleton_data', 'statistics', 'synced', 'timestamp', 'total', 'total_buffered', 'total_failed', 'total_synced', 'user_id', 'verification_status', 'visibility', 'w', 'x', 'y', 'z']

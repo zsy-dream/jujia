@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\services\audio_feedback.py
+# hypothesis_version: 6.151.6
+
+[1.0, 1.5, '-', 'abnormal_movement', 'audio_disabled', 'emergency', 'fall', 'fall_detected', 'female', 'high', 'low', 'medical_emergency', 'medium', 'message', 'normal', 'prolonged_inactivity', 'reason', 'reminder_type', 'success', 'timestamp', 'volume', '您已经很长时间没有活动了。您还好吗？', '检测到医疗紧急情况。您需要帮助吗？', '检测到异常情况。您还好吗？', '检测到异常活动。您需要帮助吗？', '检测到跌倒。您还好吗？请回答是或否。', '温馨提醒', '温馨提醒：您有一个预约', '温馨提醒：记得喝水', '温馨提醒：该服药了', '温馨提醒：该活动一下了']

@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\edge\privacy_engine.py
+# hypothesis_version: 6.151.6
+
+[0.5, 100000, 'action', 'anonymized', 'audit_log_entries', 'compliance_status', 'compliant', 'confidence_scores', 'config', 'data_size', 'data_type', 'details', 'encryption_enabled', 'frame', 'image', 'joint_type', 'keypoint_count', 'keypoints', 'non_compliant', 'privacy_violation', 'privacy_violations', 'raw_video', 'timestamp', 'user_id', 'user_id_hash', 'utf-8', 'video', 'video_data', 'violation_type', 'visibility', 'x', 'y', 'z']

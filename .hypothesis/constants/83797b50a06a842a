@@ -1,0 +1,4 @@
+# file: C:\Users\acer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sqlalchemy\dialects\postgresql\array.py
+# hypothesis_version: 6.151.6
+
+['"', '(")', '([^\\s,]+),?', ',', 'NULL', '\\', '\\"', '\\\\', '^{(.*)}$', '_$ESC_QUOTE$_', '_CT', '_T', 'array', 'clauses', 'postgresql', 'type']

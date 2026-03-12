@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\schemas\ambient.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.3, 0.4, 0.7, 0.8, 1.0, 2.0, 'activity', 'amber_caution', 'appointment', 'attention_needed', 'calm_blue', 'caution', 'critical', 'degraded', 'emergency', 'excellent', 'fair', 'fall', 'female', 'fire', 'good', 'healthy', 'high', 'hydration', 'intrusion', 'low', 'medical', 'medication', 'medication_reminder', 'normal', 'off', 'offline', 'poor', 'pulsing_red', 'system_status', 'zh-CN', 'zh-CN-female']

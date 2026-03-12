@@ -1,0 +1,4 @@
+# file: D:\互联网+项目开发\09 银龄精算师——基于多模态视觉AI与精算模型的居家养老风控闭环系统\backend\app\api\websocket.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.1, 0.15, 0.2, 0.3, 0.7, 0.85, 0.95, 6.5, 7.5, 3000, 5000, 5420, 86400, '/ws/health/{user_id}', 'activity', 'activity_update', 'alert', 'alert_id', 'alert_type', 'caution', 'daily_steps', 'date', 'frailty_score', 'health', 'health_status', 'high', 'low', 'medication', 'medium', 'message', 'mobility_score', 'normal', 'risk_score', 'risk_trend', 'severity', 'sleep_hours', 'status', 'timestamp', 'trends', 'type', '检测到活动模式异常，建议关注']
