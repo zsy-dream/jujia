@@ -79,14 +79,14 @@
                   <option>认知下降 (MCI)</option>
                 </select>
               </div>
-              <div class="h-64 flex items-end justify-around gap-2 px-4">
-                <div v-for="(val, label) in sensitivityData" :key="label" class="flex-1 flex flex-col items-center">
+              <div class="h-64 flex items-end justify-around gap-2 px-4 pb-8">
+                <div v-for="(val, label) in sensitivityData" :key="label" class="flex-1 flex flex-col items-center h-full justify-end">
                   <div class="w-full bg-blue-100 rounded-t-lg relative group transition-all hover:bg-blue-200" :style="{ height: `${val}%` }">
-                    <div class="absolute -top-8 left-1/2 -translate-x-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+                    <div class="absolute -top-8 left-1/2 -translate-x-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity z-10 w-max">
                       {{ val }}%
                     </div>
                   </div>
-                  <span class="text-[10px] text-gray-500 mt-2 rotate-45 origin-left truncate w-16">{{ label }}</span>
+                  <span class="text-[10px] text-gray-500 mt-4 rotate-45 origin-top-left -ml-2 truncate w-16 whitespace-nowrap">{{ label }}</span>
                 </div>
               </div>
             </div>
