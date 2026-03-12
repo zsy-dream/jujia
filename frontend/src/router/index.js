@@ -10,6 +10,7 @@ import DoctorDashboard from '../views/DoctorDashboard.vue'
 import DataPrivacy from '../views/DataPrivacy.vue'
 import BusinessModel from '../views/BusinessModel.vue'
 import TechShowcase from '../views/TechShowcase.vue'
+import InsuranceDashboard from '../views/InsuranceDashboard.vue'
 
 const routes = [
   {
@@ -73,6 +74,12 @@ const routes = [
     name: 'TechShowcase',
     component: TechShowcase,
     meta: { title: '技术架构与创新亮点' }
+  },
+  {
+    path: '/insurance',
+    name: 'InsuranceDashboard',
+    component: InsuranceDashboard,
+    meta: { title: '保险精算辅助系统 - 大地/中国人寿专供版' }
   }
 ]
 
